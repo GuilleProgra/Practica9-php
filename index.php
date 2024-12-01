@@ -33,11 +33,9 @@
 <section class="formulas">
 <h2>Fórmulas</h2>
     <p>λ=h/mv, donde:</p>
-    <ul>
-        <li>h es la constante de Planck</li>
-        <li>m es la masa de la partícula</li>
-        <li>V es la velocidad (c/100)</li>
-    </ul>
+        <p>h es la constante de Planck</p>
+        <p>m es la masa de la partícula</p>
+        <p>V es la velocidad (c/100)</p>
 </section>
 <section class="datos">
 <h2>Datos:</h2>
@@ -93,4 +91,3 @@
     </section>
 </body>
 </html>
-
